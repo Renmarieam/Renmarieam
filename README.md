@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning full stack programming.
+- 💬 Ask me about anything!
+- 📫 How to reach me: reneeammerman@gmail.com
+- 😄 Pronouns: she/her
